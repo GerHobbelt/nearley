@@ -7,7 +7,7 @@
     "nomnom": "~1.6.2",
     "railroad-diagrams": "^1.0.0",
     "randexp": "^0.4.2",
-    "semver": "^5.4.1"
+    "semver": "^7.5.2"
   },
   "files": [
     "bin/",
